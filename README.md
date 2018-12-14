@@ -1,2 +1,1 @@
-# Fruit's second client repository
-善卖萌也
+这是一个课程演示项目
